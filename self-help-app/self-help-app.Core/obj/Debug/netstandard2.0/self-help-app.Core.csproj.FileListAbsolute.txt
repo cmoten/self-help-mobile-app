@@ -1,0 +1,10 @@
+C:\Users\cardy\source\repos\self-help-mobile-app\self-help-app\self-help-app.Core\bin\Debug\netstandard2.0\self-help-app.Core.deps.json
+C:\Users\cardy\source\repos\self-help-mobile-app\self-help-app\self-help-app.Core\bin\Debug\netstandard2.0\self-help-app.Core.dll
+C:\Users\cardy\source\repos\self-help-mobile-app\self-help-app\self-help-app.Core\bin\Debug\netstandard2.0\self-help-app.Core.pdb
+C:\Users\cardy\source\repos\self-help-mobile-app\self-help-app\self-help-app.Core\obj\Debug\netstandard2.0\self-help-app.Core.csproj.AssemblyReference.cache
+C:\Users\cardy\source\repos\self-help-mobile-app\self-help-app\self-help-app.Core\obj\Debug\netstandard2.0\self-help-app.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cardy\source\repos\self-help-mobile-app\self-help-app\self-help-app.Core\obj\Debug\netstandard2.0\self-help-app.Core.AssemblyInfoInputs.cache
+C:\Users\cardy\source\repos\self-help-mobile-app\self-help-app\self-help-app.Core\obj\Debug\netstandard2.0\self-help-app.Core.AssemblyInfo.cs
+C:\Users\cardy\source\repos\self-help-mobile-app\self-help-app\self-help-app.Core\obj\Debug\netstandard2.0\self-help-app.Core.csproj.CoreCompileInputs.cache
+C:\Users\cardy\source\repos\self-help-mobile-app\self-help-app\self-help-app.Core\obj\Debug\netstandard2.0\self-help-app.Core.dll
+C:\Users\cardy\source\repos\self-help-mobile-app\self-help-app\self-help-app.Core\obj\Debug\netstandard2.0\self-help-app.Core.pdb
